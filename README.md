@@ -1,1 +1,4 @@
 # homework-three
+This week consisted of putting together a password generator using javascript. with the html already premade i procedded to code the javascript for the password generator.
+i began by making var arrays that contained string that pertained to their coresponding functions. Next i created a function that writes the pasword to the password input box. After that i added an event listener and then i added a list of variables that contained prompt questions and confim alerts for the user to answer. After adding that, i added a list of consol logs which log the selections that where inputed by the user. finally i wrote if and else if statments that gave specific instruction on the events that where supposed to take place when all the condittions where meet. 
+here is the url of the finished project : https://luismvela1.github.io/homework-three/
